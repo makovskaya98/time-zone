@@ -1,0 +1,32 @@
+.main-container {
+    padding: 20px;
+}
+
+.time-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.time-container div {
+    padding: 20px 40px;
+    margin: 20px;
+    font-size: 16px;
+    background: #c997b8;
+    border-radius: 5px;
+    color: white;
+}
+
+.header-container {
+    font-size: 22px;
+    color: #e46fbe;
+}
+
+.time-container .time {
+    background: white;
+    color: #e46fbe;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 0;
+    text-align: center;
+}
